@@ -7,4 +7,5 @@ A fresh new *java*-program to display the alltime classic ["Hello world!" progra
 3. Run `Main.main()`<br>
   ![Run main()](/media/screens2.png)
 ## Project Information
-This program is written in Java with the [IntelliJ Community Edition](https://www.jetbrains.com/idea/).
+This program is written in Java with the [IntelliJ Community Edition](https://www.jetbrains.com/idea/).<br>
+When executed, the program will return `Hello world!` in the terminal.
